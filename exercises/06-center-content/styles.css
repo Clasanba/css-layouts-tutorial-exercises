@@ -1,1 +1,10 @@
-body{background:blue;}
+body > div {
+	background: grey;
+	width: 400px;
+	position:;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+body {
+	background: blue;
+}
