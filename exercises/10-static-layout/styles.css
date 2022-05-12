@@ -1,4 +1,13 @@
-/* your code here */
+.wrapper nav {
+	float: left;
+	width: 20%;
+	height: 500px;
+}
+.wrapper section {
+	float: right;
+	width: 79%;
+	height: 500px;
+}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
